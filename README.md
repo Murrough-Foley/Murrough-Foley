@@ -1,8 +1,8 @@
 # Murrough Foley
 
-SEO consultant and researcher building tools at the intersection of search engine optimization, high-performance web data extraction, and applied machine learning.
+Technical SEO consultant and researcher building tools at the intersection of search engine optimization, high-performance web data extraction, and applied machine learning.
 
-I've spent 12+ years in SEO — from affiliate sites and local SEO to enterprise product management and large-scale content operations. These days I focus on technical SEO, programmatic data pipelines, and building the tools I wish existed when I was running audits across thousands of pages.
+I've spent 15+ years in SEO — from affiliate sites and local SEO to enterprise product management and large-scale content operations. These days I focus on technical SEO, programmatic data pipelines, and building the tools I wish existed when I was running audits across thousands of pages.
 
 ## What I'm Working On
 
