@@ -12,7 +12,7 @@ I build tools for extracting clean, structured content from web pages at scale. 
 
 - **[rs-trafilatura](https://github.com/Murrough-Foley/rs-trafilatura)** — A Rust web content extraction library with ML page-type classification. Detects 7 page types, applies type-specific extraction profiles, outputs GitHub Flavored Markdown. F1=0.966 on ScrapingHub (#1), F1=0.859 on a 2,008-page multi-type benchmark. 44ms/page on CPU.
 
-- **[web-content-extraction-benchmark](https://github.com/Murrough-Foley/web-content-extraction-benchmark)** — WCEB: a 2,008-page benchmark across 7 structurally distinct page types from 1,613 domains, with development and held-out test splits. 14 extraction systems benchmarked. Released under CC-BY-4.0. [DOI: 10.5281/zenodo.19316874](https://doi.org/10.5281/zenodo.19316874)
+- **[web-content-extraction-benchmark](https://github.com/Murrough-Foley/web-content-extraction-benchmark)** — WCXB: a 2,008-page benchmark across 7 structurally distinct page types from 1,613 domains, with development and held-out test splits. 14 extraction systems benchmarked. Released under CC-BY-4.0. [DOI: 10.5281/zenodo.19316874](https://doi.org/10.5281/zenodo.19316874)
 
 - **[web-page-classifier](https://github.com/Murrough-Foley/web-page-classifier)** — Standalone page type classifier (article, forum, product, collection, listing, documentation, service). Three-stage pipeline: URL heuristics, HTML signal analysis, XGBoost (181 features, 87% accuracy).
 
