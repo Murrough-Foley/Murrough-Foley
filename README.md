@@ -25,7 +25,7 @@ I build tools for extracting clean, structured content from web pages at scale. 
 My current research focuses on whether specialized heuristic+ML systems can outperform LLMs for web content extraction — and if so, when and why. Early results suggest that page-type-aware heuristic extraction beats both MinerU-HTML (0.6B) and ReaderLM-v2 (1.5B) on diverse page types while running 36-237x faster.
 
 I'm preparing two papers:
-- **WCEB: A Multi-Type Web Content Extraction Benchmark** — dataset paper introducing the benchmark and baseline results
+- **WCXB: A Multi-Type Web Content Extraction Benchmark** — dataset paper introducing the benchmark and baseline results
 - **Improving Web Content Extraction Through Page Type Classification** — system paper on page-type-aware extraction with ablation study and hybrid pipeline analysis
 
 ### SEO & Search
@@ -44,7 +44,7 @@ My professional background is in technical SEO — site architecture, crawl opti
 
 ## Professional Background
 
-- 12+ years in SEO across affiliate, local, enterprise, and consultancy
+- 15+ years in SEO across affiliate, local, enterprise, and consultancy
 - Former SEO Product Manager at OneTwenty (iGaming)
 - Founded Danang Digital (local SEO) and September Road Media (consultancy)
 - AWS Solutions Architect, CCNA, Security+, Network+
